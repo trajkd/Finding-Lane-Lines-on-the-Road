@@ -9,6 +9,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 <p align="center">
 
 ![Step 0](./steps/step0.png)
+</p>
 <br>
 ▼
 <br>

@@ -9,7 +9,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 <p align="center">
 <div>
 
-![Step 0](./steps/step0.png)
+<img alt="Step 0" src="./steps/step0.png">
 
 </div>
 
@@ -21,7 +21,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 <br>
 <p align="center">
 
-![Step 1](./steps/step1.png)
+<img alt="Step 1" src="./steps/step1.png">
 
 </p>
 <br>
@@ -31,7 +31,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 <br>
 <p align="center">
 
-![Step 2](./steps/step2.png)
+<img alt="Step 2" src="./steps/step2.png">
 
 </p>
 <br>
@@ -41,7 +41,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 <br>
 <p align="center">
 
-![Step 3](./steps/step3.png)
+<img alt="Step 3" src="./steps/step3.png">
 
 </p>
 <br>
@@ -51,7 +51,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 <br>
 <p align="center">
 
-![Step 4](./steps/step4.png)
+<img alt="Step 4" src="./steps/step4.png">
 
 </p>
 <br>
@@ -61,7 +61,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 <br>
 <p align="center">
 
-![Step 5](./steps/step5.png)
+<img alt="Step 5" src="./steps/step5.png">
 
 </p>
 <br>
@@ -71,7 +71,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 <br>
 <p align="center">
 
-![Final image](./steps/step6.png)
+<img alt="Final image" src="./steps/step6.png">
 
 </p>
 

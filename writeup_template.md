@@ -8,19 +8,19 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 
 <center>
 
-![Step 0][./steps/step0.png]
+![Step 0](./steps/step0.png)
 ▾
-![Step 1][./steps/step1.png]
+![Step 1](./steps/step1.png)
 ▾
-![Step 2][./steps/step2.png]
+![Step 2](./steps/step2.png)
 ▾
-![Step 3][./steps/step3.png]
+![Step 3](./steps/step3.png)
 ▾
-![Step 4][./steps/step4.png]
+![Step 4](./steps/step4.png)
 ▾
-![Step 5][./steps/step5.png]
+![Step 5](./steps/step5.png)
 ▾
-![Final image][./steps/step6.png]
+![Final image](./steps/step6.png)
 
 </center>
 

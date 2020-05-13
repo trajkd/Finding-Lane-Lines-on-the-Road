@@ -9,31 +9,65 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 <p align="center">
 
 ![Step 0](./steps/step0.png)
+
+</p>
 <br>
 <p align="center">
 ▼
 </p>
 <br>
+<p align="center">
+
 ![Step 1](./steps/step1.png)
+
+</p>
 <br>
+<p align="center">
 ▼
+</p>
 <br>
+<p align="center">
+
 ![Step 2](./steps/step2.png)
+
+</p>
 <br>
+<p align="center">
 ▼
+</p>
 <br>
+<p align="center">
+
 ![Step 3](./steps/step3.png)
+
+</p>
 <br>
+<p align="center">
 ▼
+</p>
 <br>
+<p align="center">
+
 ![Step 4](./steps/step4.png)
+
+</p>
 <br>
+<p align="center">
 ▼
+</p>
 <br>
+<p align="center">
+
 ![Step 5](./steps/step5.png)
+
+</p>
 <br>
+<p align="center">
 ▼
+</p>
 <br>
+<p align="center">
+
 ![Final image](./steps/step6.png)
 
 </p>

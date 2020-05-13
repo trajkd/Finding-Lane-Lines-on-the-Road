@@ -7,9 +7,8 @@
 My pipeline consisted of 5 steps. First, I converted the images to grayscale and included Gaussian smoothing, then I applied the Canny transform to detect the edges and an image mask to select the region of interest. Finally, I drew the hough lines.
 
 <p align="center">
-
+<div>
 ![Step 0](./steps/step0.png)
-</p>
 <br>
 ▼
 <br>
@@ -34,7 +33,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 ▼
 <br>
 ![Final image](./steps/step6.png)
-
+</div>
 </p>
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by separating line segments by their slope ((y2-y1)/(x2-x1)) to decide which segments are part of the left line vs. the right line. Then, I averaged the position of each of the lines and extrapolated to the top and bottom of the lane.

@@ -8,6 +8,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 
 <p align="center">
 <div>
+
 ![Step 0](./steps/step0.png)
 <br>
 ▼
@@ -33,6 +34,7 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale and
 ▼
 <br>
 ![Final image](./steps/step6.png)
+
 </div>
 </p>
 

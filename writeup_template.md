@@ -7,11 +7,8 @@
 My pipeline consisted of 5 steps. First, I converted the images to grayscale and included Gaussian smoothing, then I applied the Canny transform to detect the edges and an image mask to select the region of interest. Finally, I drew the hough lines.
 
 <p align="center">
-<div>
 
 <img alt="Step 0" src="./steps/step0.png">
-
-</div>
 
 </p>
 <br>
